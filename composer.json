@@ -1,0 +1,10 @@
+{
+    "autoload" : {
+        "psr-4" : {
+            "PHPTest\\" : "./"
+        }
+    },
+    "require": {
+        "symfony/dotenv": "^7.0"
+    }
+}
